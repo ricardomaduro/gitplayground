@@ -1,0 +1,5 @@
+{
+"parserOpts":{ 
+    "issuePrefixes": ["xp-", "nd-"] 
+}
+}
