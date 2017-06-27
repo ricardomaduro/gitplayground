@@ -1,5 +1,16 @@
-<a name=""></a>
-#  (2017-06-08)
+<a name="0.0.32"></a>
+## [0.0.32](https://github.com/ricardomaduro/gitplayground/compare/0.0.30...v0.0.32) (2017-06-27)
+
+
+### Bug Fixes
+
+* **file1:** 1.txt letter A ([524dd8c](https://github.com/ricardomaduro/gitplayground/commit/524dd8c))
+* **test:** fix test ([b3879ca](https://github.com/ricardomaduro/gitplayground/commit/b3879ca))
+* **test:** line 1 ([3f60241](https://github.com/ricardomaduro/gitplayground/commit/3f60241)), closes [#xp-2000](https://github.com/ricardomaduro/gitplayground/issues/xp-2000) [#xp-3000](https://github.com/ricardomaduro/gitplayground/issues/xp-3000)
+* **test:** line 1 ([d917303](https://github.com/ricardomaduro/gitplayground/commit/d917303)), closes [#xp-1234](https://github.com/ricardomaduro/gitplayground/issues/xp-1234) [#xp-1234](https://github.com/ricardomaduro/gitplayground/issues/xp-1234)
+* **test:** line 1 ([8970099](https://github.com/ricardomaduro/gitplayground/commit/8970099))
+* **test:** line 1 ([1f81029](https://github.com/ricardomaduro/gitplayground/commit/1f81029))
+* **test:** line 1 ([12648b4](https://github.com/ricardomaduro/gitplayground/commit/12648b4))
 
 
 
