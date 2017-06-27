@@ -1,13 +1,13 @@
-<a name="0.0.33"></a>
-## [0.0.33](https://github.com/ricardomaduro/gitplayground/compare/v0.0.32...v0.0.33) (2017-06-27)
+<a name="0.0.35"></a>
+## [0.0.35](https://github.com/ricardomaduro/gitplayground/compare/v0.0.34...v0.0.35) (2017-06-27)
 
 
 ### Bug Fixes
 
-* **test:** 1.txt ([58f6e3f](https://github.com/ricardomaduro/gitplayground/commit/58f6e3f))
-* **test:** 1.txt \nbla bla bla\n closes XP-111 ([340f9bf](https://github.com/ricardomaduro/gitplayground/commit/340f9bf))
-* **test:** 1.txt \r\n bla bla bla \r\n closes XP-2 ([d266ff2](https://github.com/ricardomaduro/gitplayground/commit/d266ff2))
-* **test:** 1.txt bla bla bla closes XP-111 ([3752c37](https://github.com/ricardomaduro/gitplayground/commit/3752c37))
+* **test:** 1.txt ([d5e7d6f](https://github.com/ricardomaduro/gitplayground/commit/d5e7d6f)), closes [#XP-3](https://github.com/ricardomaduro/gitplayground/issues/XP-3)
+* **test:** 1.txt ([b5f16e4](https://github.com/ricardomaduro/gitplayground/commit/b5f16e4)), closes [#xp-1](https://github.com/ricardomaduro/gitplayground/issues/xp-1)
+* **test:** 1.txt ([2c2d690](https://github.com/ricardomaduro/gitplayground/commit/2c2d690))
+* **test:** 1.txt ([bd5822d](https://github.com/ricardomaduro/gitplayground/commit/bd5822d))
 
 
 
