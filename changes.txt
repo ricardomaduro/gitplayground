@@ -1,13 +1,12 @@
-<a name="0.0.35"></a>
-## [0.0.35](https://github.com/ricardomaduro/gitplayground/compare/v0.0.34...v0.0.35) (2017-06-27)
+<a name="0.0.36"></a>
+## [0.0.36](https://altplc.altitude.com:8443/compare/v0.0.35...v0.0.36) (2017-06-28)
 
 
 ### Bug Fixes
 
-* **test:** 1.txt ([d5e7d6f](https://github.com/ricardomaduro/gitplayground/commit/d5e7d6f)), closes [#XP-3](https://github.com/ricardomaduro/gitplayground/issues/XP-3)
-* **test:** 1.txt ([b5f16e4](https://github.com/ricardomaduro/gitplayground/commit/b5f16e4)), closes [#xp-1](https://github.com/ricardomaduro/gitplayground/issues/xp-1)
-* **test:** 1.txt ([2c2d690](https://github.com/ricardomaduro/gitplayground/commit/2c2d690))
-* **test:** 1.txt ([bd5822d](https://github.com/ricardomaduro/gitplayground/commit/bd5822d))
+* **test:** 1.txt ([1dd6565](https://altplc.altitude.com:8443/commits/1dd6565)), closes [#xp-1](https://altplc.altitude.com:8443/issues/xp-1)
+* **test:** 2.txt ([9b62ad6](https://altplc.altitude.com:8443/commits/9b62ad6)), closes [#XP-2](https://altplc.altitude.com:8443/issues/XP-2) [#ND-3](https://altplc.altitude.com:8443/issues/ND-3)
+* **test:** 22.txt ([c95ab62](https://altplc.altitude.com:8443/commits/c95ab62)), closes [#xp-1](https://altplc.altitude.com:8443/issues/xp-1) [#nd-2](https://altplc.altitude.com:8443/issues/nd-2) [#xp-4](https://altplc.altitude.com:8443/issues/xp-4) [#nd-5](https://altplc.altitude.com:8443/issues/nd-5)
 
 
 

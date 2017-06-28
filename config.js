@@ -1,7 +1,7 @@
-var config = {};
 
-config.parserOpts = {
-        issuePrefixes : 'xp-'
-    }
-
-console.log(JSON.stringify(config.parserOpts));
+module.exports = 
+{
+    "parserOpts": {
+      issuePrefixes: ['xp-','nd-']
+    },
+}
