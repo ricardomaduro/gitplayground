@@ -5,9 +5,7 @@ pipeline {
             steps {
                 echo 'Hello World'
                 sh '''
-                    rm -rf gitplayground
-                    git clone https://github.com/ricardomaduro/gitplayground.git
-                    cd gitplayground
+                    pwd
                     ls -l
                 '''
                 echo 'Done'
