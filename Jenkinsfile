@@ -11,5 +11,11 @@ pipeline {
                 echo 'Done'
             }
         }
+        stage('Test') {
+            steps {
+                echo 'Tests...'
+                sh 'ls -l'
+            }
+        }
     }
 }
